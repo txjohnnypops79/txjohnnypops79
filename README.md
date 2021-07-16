@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @txjohnnypops79
-- 👀 I’m interested in gaming and learning more C# plus algorithyms
+- 👀 I’m interested in gaming and learning more C# plus algorithms
 - 🌱 I’m currently learning Unity with C# 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me xpcrepair23@gmail.com
